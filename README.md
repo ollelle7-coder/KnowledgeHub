@@ -69,3 +69,16 @@ KS = 확정 지식을 보존하는 프로젝트/저장소
 
 - Agent operating guide: `AGENTS.md`
 - Claude Code entry file: `CLAUDE.md`
+
+## 운영 보조 문서
+
+- Daily logs: `_Setup/07_Daily-Log/`
+- Claude project skills: `.claude/skills/`
+
+## KH base areas
+
+- `_Hub-Setup/`
+- `_Operator/`
+- `_Project-Creation/`
+- `_Project-Registry/`
+- `_Project-Profiles/`
